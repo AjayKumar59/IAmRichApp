@@ -1,4 +1,4 @@
-# i_am_rich
+# i_am_rich App
 This is My First Application 
 develope by Ajay kumar
 #Github profile 
